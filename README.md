@@ -2,7 +2,7 @@
 
 <h2>I'm Omar Adel.</h2>
 
-## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+## &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - 🔭️ &nbsp; I'm an enthusiatic **Front-End engineer** aiming to be a Full Stack engineer.
 - 🤔 &nbsp; I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
